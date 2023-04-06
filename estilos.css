@@ -1,0 +1,37 @@
+@media (max-width: 2500px) { 
+.header{
+  background-color: aqua;
+  width: auto;
+  height: 200px;
+}
+
+.logoTop {
+  position:absolute;
+  margin-left: 300px;
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;
+}
+
+.promotion {
+  
+  background-color: rgb(42, 130, 15);
+  width: auto;
+  height: 30px;
+}
+
+.titleInfo {
+  
+  background-color: rgb(45, 196, 19);
+  width: auto;
+  height: 100px;
+}
+
+.menu {
+  
+  background-color: rgb(19, 101, 4);
+  width: auto;
+  height: 70px;
+}
+}
+
